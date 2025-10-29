@@ -1,5 +1,11 @@
 body{
-background-color: deeppink;
+background-color: rgba(255, 20, 145, 0.438);
 font-family:Alfa Slab One;
 
+}
+header{
+    font-size: 50px;
+    text-align: center;
+border: dashed;
+border-color: rgba(233, 16, 16, 0.5);
 }
