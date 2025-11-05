@@ -1,5 +1,5 @@
 body{
-background-color: rgba(255, 20, 145, 0.438);
+background-color: rgba(255, 121, 193, 0.479);
 font-family:Alfa Slab One;
 
 }
@@ -8,4 +8,9 @@ header{
     text-align: center;
 border: dashed;
 border-color: rgba(233, 16, 16, 0.5);
+}
+.top1{
+    text-align: center;
+    background-color: rgba(250, 14, 218, 0.623);
+    padding-top: 40px;
 }
